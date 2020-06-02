@@ -1,2 +1,1 @@
 TweetFile,NewsArticlesFile,LexiconFile,MappingFile,IdToDateMappingFile,output,nFileNum,TweetNum,TFIDFScores_Dir,Expanded_TFIDFScores_Dir
-AllTweets.csv,newsArticlesDir,EarthquakeLexicon.txt,NewsDocIdToFileNameMapping.txt,NFileDates.txt,output_Linking.csv,349,80300,TFIDFScores_Dir,Exp_TFIDFScores_Dir
